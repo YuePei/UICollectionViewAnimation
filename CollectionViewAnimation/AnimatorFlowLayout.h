@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface AnimatorFlowLayout : UICollectionViewFlowLayout
+//cellCount
+@property (nonatomic, assign)int cellCount;
 
 @end
